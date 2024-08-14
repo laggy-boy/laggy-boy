@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Laggy</h1>
-<h3 align="center">I am an aspirant in the field of Cybersec and Game Development</h3>
+<h3 align="center">I am an Aspiring Cybersec Analyst and Game Developer</h3>
 
 
 - 🔭 I’m currently working on [Block Game](https://github.com/laggy-boy/BlockGame)
